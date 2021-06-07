@@ -1,7 +1,3 @@
-## Video explanation: 
-https://youtu.be/7IX84K9g23U
-
-----
 # Low Level System Design - Parking lot 
 
 ### Problem Statement
